@@ -1,4 +1,4 @@
-<h2 align="centre">🆂🅾🅼🅴🅳 🅼🆄🆂🅸🅲</h2>
+<h2 align="center">🆂🅾🅼🅴🅳 🅼🆄🆂🅸🅲</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/ba582d379f2586f227d66.png">
