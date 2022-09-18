@@ -25,7 +25,7 @@ from CilikMusic.utils.inline.help import (help_back_markup,
                                           private_help_panel)
 
 ### Command
-HELP_COMMAND = get_command("HELPMUSIC_COMMAND")
+HELP_COMMAND = get_command("HELP_COMMAND")
 
 
 @app.on_message(
