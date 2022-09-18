@@ -42,7 +42,7 @@ from CilikMusic.utils.inline.settings import (
 from CilikMusic.utils.inline.start import private_panel
 
 ### Command
-SETTINGS_COMMAND = get_command("SETTINGSMUSIC_COMMAND")
+SETTINGS_COMMAND = get_command("SETTINGS_COMMAND")
 
 
 @app.on_message(
