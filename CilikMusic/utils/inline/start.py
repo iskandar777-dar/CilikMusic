@@ -1,2 +1,2 @@
-start_pannel():
-private_panel():
+start_pannel()
+private_panel()
